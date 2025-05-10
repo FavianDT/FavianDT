@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-I am currently a student at Nusantara Islamic University<br>
+I am currently a bachelor's degree student at Nusantara Islamic University, majoring in Informatics Engineering.<br>
 
 ![meme](logo_uninus.png)
 
