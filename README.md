@@ -1,4 +1,4 @@
-![banner](https://drive.google.com/file/d/14QuJ3DW0Z78ax0Pn3G1O2T-ETWrs_WNX/view?usp=drive_link))
+![banner](https://drive.google.com/file/d/14QuJ3DW0Z78ax0Pn3G1O2T-ETWrs_WNX/view?usp=drive_link)
 
 # 💫 About Me:
 I am currently a student at Nusantara Islamic University<br>
