@@ -1,10 +1,10 @@
-![banner](profile_banner.png)
+![](profile_banner.png)
 
 ## 💫 About Me:
 
 I am currently a bachelor's degree student at Nusantara Islamic University, majoring in Informatics Engineering.<br>
 
-![meme](logo_uninus.png)
+![](logo_uninus.png)
 
 ## 🌐 Socials:
 
