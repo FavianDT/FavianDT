@@ -1,3 +1,5 @@
+![banner](img/profile_banner.png)
+
 # 💫 About Me:
 I am currently a student at Nusantara Islamic University<br>
 
